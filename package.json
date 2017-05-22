@@ -1,0 +1,28 @@
+{
+  "name": "testshop",
+  "version": "0.0.1",
+  "description": "test to make a market place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acceleratorlastorder/testshop.git"
+  },
+  "keywords": [
+    "shop",
+    "list"
+  ],
+  "author": "acceleratorlastorder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acceleratorlastorder/testshop/issues"
+  },
+  "homepage": "https://github.com/acceleratorlastorder/testshop#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "redis": "^2.7.1"
+  }
+}
